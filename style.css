@@ -1,0 +1,509 @@
+    .gitpod{
+        width: 1310px;
+        height: 121px;
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .menyu{
+        
+    } 
+
+    .gitpod img{
+        width: 36px;
+        height: 40px;
+        
+        margin-left: 10px;
+    }
+    .gitpod p{
+      color: black; 
+      font-size: large;
+
+    }            
+    .gitpod a{
+        color: rgba(18, 16, 12, 0.7);
+        font-family: "Roboto", sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        font-size: large;
+        text-decoration: none;
+        
+    }
+    .gitpod button{
+        width: 80px;
+        height: 32px;
+        border-radius: 12px;
+        background: rgb(18, 16, 12);
+        color: rgb(249, 249, 249);
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: right 10px;
+        margin-right: 15px;
+        margin-top:20px ;
+    
+    }
+    .box{
+        width: 25%;
+        display: flex;
+        padding-left: 15px;
+        justify-content: left;
+
+    }
+    .href{
+        width: 50%;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 20px;
+    }
+    .log{
+        width: 25%;
+        display: flex;
+        justify-content: right;
+    }
+    .bok{
+        width: 1310px;
+        height: 672px;
+        display: flex;
+        padding-top: 20px;
+        
+          }
+    .always{
+        width: 550px;
+        
+    }
+    .always h1{
+        
+        color: rgb(18, 16, 12);
+        font-family: "Roboto", sans-serif;
+        font-size: 80px;
+        font-weight: 700;
+        gap: 10px;
+            }
+            .always p{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: "Roboto", sans-serif;
+                font-size: 23px;
+                font-weight: 400;
+                line-height: 31.92px;
+                letter-spacing: 0%;
+                text-align: left;
+            }
+            .always_img{
+                width: 700px;
+                height: 672px;
+            }
+            .always_img img{
+                width: 630px;
+                height: 652px;
+            }
+            .always button{
+                width: 160px;
+                height: 46px;
+                border-radius: 16px;
+                box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(255, 174, 51);
+            }
+            .always h5{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: "Roboto", sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;
+                
+            }
+            .always div {
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+            }
+            .always img{
+                width: 160px;
+                height: 32px;
+                margin-left: 50px;
+            }
+            .select{
+                width: 1310px;
+                height: 572px;
+                margin-top: 100px;
+            }
+            .select p{
+                color: rgb(153, 151, 149);
+                font-family: "Roboto", sans-serif;
+                font-size: 54px;
+                font-weight: 400;
+                line-height: 63.72px;
+                letter-spacing: 0%;
+                text-align: center;
+                text-decoration-line: line-through;
+            }
+            .select h2{
+                            color: rgb(18, 16, 12);
+            font-family: "Roboto",sans-serif;
+            font-size: 54px;
+            font-weight: 700;
+            line-height: 63.72px;
+            letter-spacing: 0%;
+            text-align: center;
+            }
+            .select h3{
+                color: rgb(18, 16, 12);
+                font-family: "Roboto", sans-serif;
+                font-size: 54px;
+                font-weight: 700;
+                line-height: 63.72px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .think{
+                width: 1310px;
+                height: 792px;
+                display: flex;
+                margin-top: 10px;
+            }
+            .think h3{
+                color: rgb(18, 16, 12);
+                font-family: "Roboto", sans-serif;
+                font-size: 32px;
+                font-weight: 700;
+                line-height: 40px;
+                letter-spacing: 0%;
+                text-align: left;
+                            }
+             .think p{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: 'Roboto', sans-serif;
+                font-size: 24px;
+                font-weight: 400;
+                line-height: 31.92px;
+                letter-spacing: 0%;
+                text-align: left;
+             } 
+             .more{
+                width: 162px;
+                height: 32px;
+                border-radius: 10.5px;
+                box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(255, 174, 51);
+                
+                margin-top: 130px;
+             }      
+             .dok{
+                width: 162px;
+                height: 32px;
+                border-radius: 10.5px;
+                box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(255, 176, 174);
+             }   
+             .right img{
+                width: 590px;
+                height: 472px;
+                padding-left: 40px;
+             }   
+             .left{
+                padding-left: 65px;
+             }  
+             .remote h1{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto', sans-serif;
+                font-size: 54px;
+                font-weight: 700;
+                line-height: 71.82px;
+                letter-spacing: 0%;
+                text-align: center;
+             }    
+             .remote img{
+                width: 1269px;
+                height: 821px;
+                border-radius: 14px;
+                box-shadow: -2px 2px 15px 8px rgba(255, 138, 0, 0.4);
+                background: url();
+             }
+             .remote .p{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: 'Roboto', sans-serif;
+                font-size: 24px;
+                font-weight: 400;
+                line-height: 31.92px;
+                letter-spacing: 0%;
+                text-align: center;
+                padding-top: 49px;
+               
+             }
+             .remote .img6{
+                width: 207px;
+                height: 47px;
+                border-radius: 9px;
+                box-shadow: 0px 0.5px 2px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(255, 255, 255);
+                text-align: center;
+                
+             }
+            .remote .img7{
+                width: 199px;
+                height: 47px;
+                border-radius: 9px;
+                box-shadow: 0px 0.5px 2px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(255, 255, 255);
+                text-align: center;
+                margin-left: 20px;
+                
+            }
+            .p{
+                width: 900px;
+                height: 188px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding-left: 200px;
+            }
+            .rasm{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .used{
+                width: 1310px;
+                height: 669px;
+               
+            }
+            .men{
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+            }
+            .ben{
+                width: 384px;
+                height: 248px;
+                border-radius: 16px;
+                background: rgb(255, 255, 255);
+            }
+            .michael{
+                width: 384px;
+                height: 272px;
+                border-radius: 16px;
+                background: rgb(255, 255, 255);
+            }
+            .julius{
+                width: 384px;
+                height: 264px;
+                border-radius: 16px;
+                background: rgb(255, 255, 255);
+            }
+            .ben h5{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto', sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;
+            }
+            .ben p{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto', sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;
+            }
+            .michael h5{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto', sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;
+            }
+            .michael p{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto', sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 24px;
+                letter-spacing: 0%;
+                text-align: left;
+            }
+            .julius h5{
+                color: rgb(18, 16, 12);
+
+            }
+            .ben img{
+                width: 300px;
+                height: 80px;
+                
+            }
+            .michael img{
+                width: 300px;
+                height: 50px;
+            }
+            .julius img{
+                width: 300px;
+                height: 80px;
+                margin-top:  50px;
+            }
+            .used h1{
+                text-align: center;
+            }
+            .men{
+                margin-top: 50px;
+            }
+            .used .jek{
+                width: 1140px;
+                height: 246px;
+                text-align: center;
+                padding-top: 60px ;
+                padding-left: 80px;
+            }
+            .get{
+                width: 1310px;
+                height: 770px;
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+
+            }
+            .get h1{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto',sans-serif;
+                font-size: 54px;
+                font-weight: 700;
+                line-height: 71.82px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .li{
+                width: 642px;
+                height: 651px;
+                border-radius: 20px;
+                background: rgb(255, 255, 255);
+               display: flex;
+               justify-content: space-around;
+               align-items: center;
+               flex-direction: column;
+            }
+            .ri{
+                width: 642px;
+                height: 651px;
+                border-radius: 20px;
+                background: rgb(255, 255, 255); 
+            }
+            .li h1{
+                color: rgb(18, 16, 12);
+                font-family: 'Roboto',sans-serif ;
+                font-size: 32px;
+                font-weight: 700;
+                line-height: 40px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .li h5{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: 'Roboto',sans-serif;
+                font-size: 24px;
+                font-weight: 400;
+                line-height: 31.92px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .li img{
+                width: 262px;
+                height: 46px;
+                border-radius: 12px;
+                box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(252, 109, 38);
+                text-align: center;
+            }
+            .li h4{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: 'Roboto',sans-serif;
+                font-size: 24px;
+                font-weight: 400;
+                line-height: 31.92px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .li button{
+                width: 151px;
+                height: 31px;
+                border-radius: 12px;
+                background: rgb(255, 228, 188);
+                text-align: center;
+            }
+            .ri div{
+                width: 530px;
+                height: 56px;
+                border-radius: 12px;
+                background: rgb(249, 249, 249);
+                display: flex;
+                justify-content: space-around;
+                margin-top: 10px;
+             }
+            .ri div img{
+                width: 27px;
+                height: 27px;
+            }
+            
+            .ri div p{
+                color: rgba(18, 16, 12, 0.7);
+                font-family: 'Roboto', sans-serif;
+                font-size: 20px;
+                font-weight: 400;
+                line-height: 20px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+            .ri div button{
+                width: 143px;
+                height: 32px;
+                border-radius: 12px;
+                box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.1);
+                background: rgb(18, 16, 12);
+                color: rgb(255, 255, 255);
+                font-family: 'Roboto', sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                line-height: 16px;
+                letter-spacing: 0%;
+                text-align: center;
+            }
+                .ri h5{
+                    color: rgba(18, 16, 12, 0.7);
+                    font-family: 'Roboto',sans-serif;
+                    font-size: 23px;
+                    font-weight: 400;
+                    line-height: 31.92px;
+                    letter-spacing: 0%;
+                    text-align: center;
+                }
+                .ri h2{
+                    color: rgb(18, 16, 12);
+                    font-family: 'Roboto',sans-serif;
+                    font-size: 32px;
+                    font-weight: 700;
+                    line-height: 40px;
+                    letter-spacing: 0%;
+                    text-align: center;
+                }
+                .legal{
+                    width: 852px;
+                    height: 275px;
+                   display: flex;
+                   justify-content: space-around;
+                   align-items:center ;
+                    margin-top: 300px;
+                }
+                 .legal div{
+                    width: 100px;
+                    height: 227px;
+
+                } 
+                @media (max-width: 768px){
+                    
+                }
+                    
+            
